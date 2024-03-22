@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-21T07:12:05 IST" name="Default suite" finished-at="2024-03-21T07:12:54 IST" duration-ms="48994">
+    <groups>
+    </groups>
+    <test started-at="2024-03-21T07:12:05 IST" name="Default test" finished-at="2024-03-21T07:12:54 IST" duration-ms="48994">
+      <class name="testcases.TC20_Remove_Items_From_Cart">
+        <test-method is-config="true" signature="initialiazeBrowser()[pri:0, instance:testcases.TC20_Remove_Items_From_Cart@655f7ea]" started-at="2024-03-21T07:12:05 IST" name="initialiazeBrowser" finished-at="2024-03-21T07:12:18 IST" duration-ms="13699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialiazeBrowser -->
+        <test-method signature="VerifyRemobeItemsFromCart()[pri:0, instance:testcases.TC20_Remove_Items_From_Cart@655f7ea]" started-at="2024-03-21T07:12:19 IST" name="VerifyRemobeItemsFromCart" finished-at="2024-03-21T07:12:49 IST" duration-ms="30859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyRemobeItemsFromCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TC20_Remove_Items_From_Cart@655f7ea]" started-at="2024-03-21T07:12:49 IST" name="tearDown" finished-at="2024-03-21T07:12:54 IST" duration-ms="4090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TC20_Remove_Items_From_Cart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

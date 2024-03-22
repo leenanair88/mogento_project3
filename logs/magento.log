@@ -1,0 +1,88 @@
+"11:11:52.958 [main] INFO  library.BaseClass - Verified Menu Items
+"/"11:15:33.622 [main] INFO  library.BaseClass - url opened
+"/"11:15:37.912 [main] INFO  library.BaseClass - Entered Email ID
+"/"11:15:38.259 [main] INFO  library.BaseClass - Entered password
+"/"11:15:42.525 [main] INFO  library.BaseClass - clicked signin
+"/"11:15:44.942 [main] INFO  library.BaseClass - Verified Welcome message
+"/"11:15:45.085 [main] INFO  library.BaseClass - clicked dropdown button
+"/"11:15:47.101 [main] INFO  library.BaseClass - clicked signout
+"/"11:16:36.143 [main] INFO  library.BaseClass - url opened
+"/"11:16:38.637 [main] INFO  library.BaseClass - Verified Menu Items
+"/"11:18:27.605 [main] INFO  library.BaseClass - url opened
+"/"11:18:36.612 [main] INFO  library.BaseClass - Searched for Tops
+"/"11:18:38.032 [main] INFO  library.BaseClass - Verified Search results for: 'Tops'
+"/"11:20:56.228 [main] INFO  library.BaseClass - url opened
+"/"11:20:57.567 [main] INFO  library.BaseClass - Logo is displayed
+"/"11:21:05.564 [main] INFO  library.BaseClass - Verified HomePage Title
+"/"11:26:30.061 [main] INFO  library.BaseClass - url opened
+"/"11:26:31.279 [main] INFO  library.BaseClass - Verified Menu Items
+"/"11:26:32.138 [main] INFO  library.BaseClass - Mousehover on Men Menu
+"/"11:26:32.376 [main] INFO  library.BaseClass - Mousehover on Men Tops
+"/"11:26:35.245 [main] INFO  library.BaseClass - clicked on Jackets
+"/"11:26:35.999 [main] INFO  library.BaseClass - Verified the heading: jackets
+"/"20:34:51.057 [main] INFO  library.BaseClass - url opened
+"/"20:35:00.739 [main] INFO  library.BaseClass - Verified Search results
+"/"20:35:00.966 [main] INFO  library.BaseClass - Verified Product title text with search result
+"/"20:37:51.963 [main] INFO  library.BaseClass - url opened
+"/"20:38:00.342 [main] INFO  library.BaseClass - searched for jackets
+"/"20:38:00.789 [main] INFO  library.BaseClass - Mousehovered on Hotsellers
+"/"20:38:01.093 [main] INFO  library.BaseClass - clicked add to cart
+"/"20:38:08.179 [main] INFO  library.BaseClass - Warning message verification passed
+"/"20:51:27.552 [main] INFO  library.BaseClass - url opened
+"/"20:51:29.332 [main] INFO  library.BaseClass - Verified sales page heading
+"/"20:51:30.862 [main] INFO  library.BaseClass - Clicked on sales page image
+"/"20:51:30.915 [main] INFO  library.BaseClass - Women sale page heading verified
+"/"20:53:13.022 [main] INFO  library.BaseClass - url opened
+"/"20:53:15.232 [main] INFO  library.BaseClass - Clicked on product
+"/"20:53:15.375 [main] INFO  library.BaseClass - Product Name verified
+"/"21:00:06.411 [main] INFO  library.BaseClass - url opened
+"/"21:00:13.011 [main] INFO  library.BaseClass - Clicked on product
+"/"21:00:14.846 [main] INFO  library.BaseClass - More Info Tab is enabled
+"/"21:00:16.392 [main] INFO  library.BaseClass - Clicked on more info
+"/"21:00:16.908 [main] INFO  library.BaseClass - Addition info of the product displaed in console
+"/"21:25:54.102 [main] INFO  library.BaseClass - url opened
+"/"21:25:55.340 [main] INFO  library.BaseClass - url opened
+"/"21:25:57.442 [main] INFO  library.BaseClass - Mousehovered on Men Menu
+"/"21:25:57.848 [main] INFO  library.BaseClass - Mousehovered on Men Menu
+"/"21:25:57.920 [main] INFO  library.BaseClass - Mousehovered on Tops Menu
+"/"21:25:58.281 [main] INFO  library.BaseClass - Mousehovered on Tops Menu
+"/"21:26:06.024 [main] INFO  library.BaseClass - Clicked on jackets
+"/"21:26:07.428 [main] INFO  library.BaseClass - Mousehovered on Product
+"/"21:26:08.575 [main] INFO  library.BaseClass - Clicked on jackets
+"/"21:26:11.236 [main] INFO  library.BaseClass - Mousehovered on Product
+"/"21:26:17.014 [main] INFO  library.BaseClass - Clicked on WishedList
+"/"21:26:17.847 [main] INFO  library.BaseClass - Customer Login Page Title Verified
+"/"21:26:19.962 [main] INFO  library.BaseClass - Clicked on WishedList
+"/"21:26:20.366 [main] INFO  library.BaseClass - Customer Login Page Title Verified
+"/"06:57:43.107 [main] INFO  library.BaseClass - url opened
+"/"06:57:49.998 [main] INFO  library.BaseClass - Clicked sign in
+"/"06:57:52.475 [main] INFO  library.BaseClass - enetered emailid
+"/"06:57:53.474 [main] INFO  library.BaseClass - Entered password
+"/"06:57:59.758 [main] INFO  library.BaseClass - Clicked sign in
+"/"06:58:02.556 [main] INFO  library.BaseClass - Mousehovered on Men Menu
+"/"06:58:03.299 [main] INFO  library.BaseClass - Mousehovered on Tops Menu
+"/"07:00:10.646 [main] INFO  library.BaseClass - url opened
+"/"07:00:14.687 [main] INFO  library.BaseClass - Clicked sign in
+"/"07:00:16.368 [main] INFO  library.BaseClass - enetered emailid
+"/"07:00:16.819 [main] INFO  library.BaseClass - Entered password
+"/"07:00:20.572 [main] INFO  library.BaseClass - Clicked sign in
+"/"07:00:21.463 [main] INFO  library.BaseClass - Mousehovered on Men Menu
+"/"07:00:21.694 [main] INFO  library.BaseClass - Mousehovered on Tops Menu
+"/"07:00:27.674 [main] INFO  library.BaseClass - Clicked on jackets
+"/"07:00:29.232 [main] INFO  library.BaseClass - Mousehovered on Product
+"/"07:00:34.109 [main] INFO  library.BaseClass - Clicked on WishedList
+"/"07:00:37.223 [main] INFO  library.BaseClass - Success message verification passed
+"/"07:12:18.741 [main] INFO  library.BaseClass - url opened
+"/"07:12:22.862 [main] INFO  library.BaseClass - Clicked sign in
+"/"07:12:23.756 [main] INFO  library.BaseClass - enetered emailid
+"/"07:12:24.171 [main] INFO  library.BaseClass - Entered password
+"/"07:12:27.097 [main] INFO  library.BaseClass - Clicked sign in
+"/"07:12:27.901 [main] INFO  library.BaseClass - Mousehovered on Men Menu
+"/"07:12:28.103 [main] INFO  library.BaseClass - Mousehovered on Tops Menu
+"/"07:12:30.468 [main] INFO  library.BaseClass - Clicked on jackets
+"/"07:12:31.429 [main] INFO  library.BaseClass - Mousehovered on men product
+"/"07:12:31.705 [main] INFO  library.BaseClass - Clicked on add to cart
+"/"07:12:42.298 [main] INFO  library.BaseClass - Clicked on cart
+"/"07:12:45.487 [main] INFO  library.BaseClass - removed item from cart
+"/"07:12:49.892 [main] INFO  library.BaseClass - Itema successfully removed from cart
+"/
